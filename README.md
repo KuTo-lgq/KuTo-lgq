@@ -6,7 +6,7 @@
 
 **KuTo-lgq** · 🇭🇰 香港 Hong Kong
 
-香港理工大学人工智能方向研究生  
+香港理工大学应用数学系人工智能方向研究生  
 Graduate student in Artificial Intelligence at The Hong Kong Polytechnic University
 
 喜欢在 GitHub 分享项目与竞赛代码。  
