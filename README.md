@@ -30,8 +30,6 @@ I share projects and contest code here.
 
 ## 🚀 项目 · Featured
 
-三件近期公开的作品，各自一条主题色。  
-Three public projects, each with its own topic row.
 
 | 📘 **[notion-bloom](https://github.com/KuTo-lgq/notion-bloom)** | 🔑 **[KeyRelay](https://github.com/KuTo-lgq/KeyRelay)** | 🧪 **[dataset_review_agent](https://github.com/KuTo-lgq/dataset_review_agent)** |
 | --- | --- | --- |
@@ -49,7 +47,7 @@ Papers and code from the contests.
 | --- | --- | --- |
 | **2025 CUMCM · 题 C** | 山东省二等奖 | [2025CUMCM_problemC](https://github.com/KuTo-lgq/2025CUMCM_problemC) |
 | **2025 MCM/ICM · Problem B** | Honorable Mention | [2025_MCM-ICM_Problem-B](https://github.com/KuTo-lgq/2025_MCM-ICM_Problem-B) |
-| **2024 APMCM · 题 A** | 参赛作品 | [2024APMCM-A](https://github.com/KuTo-lgq/2024APMCM-A) |
+| **2024 APMCM · 题 A** | 二等奖 | [2024APMCM-A](https://github.com/KuTo-lgq/2024APMCM-A) |
 
 
 ---
