@@ -51,8 +51,6 @@ Papers and code from the contests.
 | **2025 MCM/ICM · Problem B** | Honorable Mention | [2025_MCM-ICM_Problem-B](https://github.com/KuTo-lgq/2025_MCM-ICM_Problem-B) |
 | **2024 APMCM · 题 A** | 参赛作品 | [2024APMCM-A](https://github.com/KuTo-lgq/2024APMCM-A) |
 
-<p align="center">✦ &nbsp; 论文与练习 &nbsp; ✦</p>
-
 
 ---
 
