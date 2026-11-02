@@ -53,8 +53,6 @@ Papers and code from the contests.
 
 <p align="center">✦ &nbsp; 论文与练习 &nbsp; ✦</p>
 
-脑电论文和车辆跟踪写在下面。  
-An EEG paper and a vehicle-tracking exercise follow.
 
 ---
 
